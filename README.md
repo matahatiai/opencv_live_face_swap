@@ -12,19 +12,19 @@ Download the shape detector file from [here](http://dlib.net/files/shape_predict
 
 ### Lionel Messi and Cristiano Ronaldo
 
-<img src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/RSM.jpg" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/RSM.jpg" width="300" height="400" />
+<img src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/RSM.jpg" alt="" data-canonical-src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/RSM.jpg" width="300" height="400" />
 
 
-<img src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/MSR.jpg" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/RSM.jpg" width="300" height="400" />
+<img src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/MSR.jpg" alt="" data-canonical-src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/RSM.jpg" width="300" height="400" />
 
 
 
 ### Donald Trump and Kim Jong Un
 
-<img src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/TSK.jpg" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/RSM.jpg" width="300" height="400" />
+<img src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/TSK.jpg" alt="" data-canonical-src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/RSM.jpg" width="300" height="400" />
 
 
-<img src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/KST.jpg" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/RSM.jpg" width="300" height="400" />
+<img src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/KST.jpg" alt="" data-canonical-src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/RSM.jpg" width="300" height="400" />
 
 
 
@@ -33,9 +33,9 @@ Download the shape detector file from [here](http://dlib.net/files/shape_predict
 
 Example 1
 
-<img src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/Example%201.png" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/Example%201.png" width="500" height="500" />
+<img src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/Example%201.png" alt="" data-canonical-src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/Example%201.png" width="500" height="500" />
 
 
 Example 2 
 
-<img src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/Example%202.png" alt="" data-canonical-src="https://github.com/akshaybhatia10/ComputerVison-Projects/blob/master/FaceSwapper/Example%202.png" width="500" height="500" />
+<img src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/Example%202.png" alt="" data-canonical-src="https://github.com/matahatiai/opencv_live_face_swap/blob/master/Example%202.png" width="500" height="500" />
